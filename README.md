@@ -104,3 +104,15 @@ The model was evaluated on two distinct datasets to test robustness.
 ```bash
 git clone [https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git](https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git)
 cd Audio-Deepfake-Detection-EfficientNet
+
+---
+
+## 🙏 Acknowledgments
+
+This project was inspired by the work of [AmogAgrawal1249 (Amogh Agrawal)](https://github.com/AmogAgrawal1249). All implementation, development, and code are 100% original work. The EfficientNet-based approach and methodology for audio deepfake detection have been implemented independently from scratch.
+
+## 📧 Contact
+
+For questions or inquiries about this project, please reach out via:
+- **Email:** [Your Email]
+- **GitHub:** [@bhushnbrt](https://github.com/bhushnbrt)   
