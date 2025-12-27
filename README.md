@@ -92,9 +92,14 @@ The model was evaluated on two distinct datasets to test robustness.
 
 ### 🔧 Prerequisites
 * Python 3.8+
-* TensorFlow
-* Librosa
-* Numpy, Scikit-learn, Scipy
+* Librosa 0.10.0
+* Matplotlib 3.7.2
+* Numpy 1.24.4
+* Pandas 1.5.3
+* Scikit-learn 1.3.0
+* Soundfile 0.13.1
+* Tensorflow 2.13.0
+* Tqdm 4.66.1
 
 ### 1️⃣ Clone the Repository
 ```bash
