@@ -16,6 +16,7 @@ This project is an end-to-end deep learning pipeline designed to **detect AI-gen
 - [📈 Performance Results](#-performance-results)
 - [🛠 Installation & Setup](#-installation--setup)
 - [📂 Project Structure](#-project-structure)
+- - [🙏 Acknowledgments](#acknowledgments)
 - [✉️ Contact](#-contact)
 
 ---
@@ -109,10 +110,10 @@ cd Audio-Deepfake-Detection-EfficientNet
 
 ## 🙏 Acknowledgments
 
-This project was inspired by the work of [AmogAgrawal1249 (Amogh Agrawal)](https://github.com/AmogAgrawal1249). All implementation, development, and code are 100% original work. The EfficientNet-based approach and methodology for audio deepfake detection have been implemented independently from scratch.
+### This project was inspired by the work of [AmogAgrawal1249 (Amogh Agrawal)](https://github.com/AmogAgrawal1249). All implementation, development, and code are 100% original work. The EfficientNet-based approach and methodology for audio deepfake detection have been implemented independently from scratch.
 
 ## 📧 Contact
 
-For questions or inquiries about this project, please reach out via:
+### For questions or inquiries about this project, please reach out via:
 - **Email:** [Your Email]
 - **GitHub:** [@bhushnbrt](https://github.com/bhushnbrt)   
