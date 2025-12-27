@@ -1,0 +1,19 @@
+# --- Ignore Huge Datasets ---
+ASVspoof 2015 DS_10283_853/
+wav/
+CM_protocol/
+Joint_ASV_CM_protocol/
+
+# --- Ignore Large Model Files ---
+# We ignore .h5 because it's usually >100MB. 
+# If you used 'Releases' to upload it, this keeps the repo clean.
+*.h5
+*.npy
+
+# --- Ignore Python Junk ---
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
