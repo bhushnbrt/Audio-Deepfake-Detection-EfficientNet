@@ -15,24 +15,19 @@ This project is an end-to-end deep learning pipeline designed to **detect AI-gen
 - [🚀 Methodology](#-methodology)
 - [📈 Performance Results](#-performance-results)
 - [🛠 Installation & Setup](#-installation--setup)
-- [📂 Project Structure](#-project-structure)
-- - [🙏 Acknowledgments](#acknowledgments)
+- [🙏 Acknowledgments](#-acknowledgments)
 - [✉️ Contact](#-contact)
 
 ---
 
 ## 🔍 Project Overview
 
-As voice synthesis technology improves, distinguishing between human and machine-generated speech becomes critical for security. 
-This project focuses on:
+As voice synthesis technology improves, distinguishing between human and machine-generated speech becomes critical for security. This project focuses on:
 
-✅ Feature Extraction: Converting raw audio to 3-channel Mel-spectrograms.
-
-✅ Deep Learning: Fine-tuning a pretrained EfficientNetB0 CNN.
-
-✅ Robust Evaluation: Testing on both known (Development) and unknown (Evaluation) attack types.
-
-✅ Metric Analysis: Using Equal Error Rate (EER) to measure security performance.
+✅ **Feature Extraction:** Converting raw audio to 3-channel Mel-spectrograms.  
+✅ **Deep Learning:** Fine-tuning a pretrained EfficientNetB0 CNN.  
+✅ **Robust Evaluation:** Testing on both known (Development) and unknown (Evaluation) attack types.  
+✅ **Metric Analysis:** Using Equal Error Rate (EER) to measure security performance.
 
 ---
 
@@ -105,15 +100,14 @@ The model was evaluated on two distinct datasets to test robustness.
 ```bash
 git clone [https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git](https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git)
 cd Audio-Deepfake-Detection-EfficientNet
+```bash
 
----
 
 ## 🙏 Acknowledgments
+This project was inspired by the work of [AmoghAgrawal1249](https://github.com/AmoghAgrawal1249). All implementation, development, and code are **100% original work**. The EfficientNet-based approach and methodology for audio deepfake detection have been implemented independently from scratch.
 
-### This project was inspired by the work of [AmogAgrawal1249 (Amogh Agrawal)](https://github.com/AmogAgrawal1249). All implementation, development, and code are 100% original work. The EfficientNet-based approach and methodology for audio deepfake detection have been implemented independently from scratch.
+## ✉️ Contact
+For questions or inquiries about this project, please reach out via:
 
-## 📧 Contact
-
-### For questions or inquiries about this project, please reach out via:
-- **Email:** [Your Email]
-- **GitHub:** [@bhushnbrt](https://github.com/bhushnbrt)   
+- **Email:** [bhushnbrt@gmail.com]
+- **GitHub:** [@bhushnbrt](https://github.com/bhushnbrt)
