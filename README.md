@@ -103,7 +103,7 @@ The model was evaluated on two distinct datasets to test robustness.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git](https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git)
+git clone https://github.com/bhushnbrt/Audio-Deepfake-Detection-EfficientNet.git
 cd Audio-Deepfake-Detection-EfficientNet
 ```
 
