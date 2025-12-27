@@ -22,11 +22,15 @@ This project is an end-to-end deep learning pipeline designed to **detect AI-gen
 
 ## 🔍 Project Overview
 
-As voice synthesis technology improves, distinguishing between human and machine-generated speech becomes critical for security. This project focuses on:
+As voice synthesis technology improves, distinguishing between human and machine-generated speech becomes critical for security. 
+This project focuses on:
 
 ✅ Feature Extraction: Converting raw audio to 3-channel Mel-spectrograms.
+
 ✅ Deep Learning: Fine-tuning a pretrained EfficientNetB0 CNN.
+
 ✅ Robust Evaluation: Testing on both known (Development) and unknown (Evaluation) attack types.
+
 ✅ Metric Analysis: Using Equal Error Rate (EER) to measure security performance.
 
 ---
